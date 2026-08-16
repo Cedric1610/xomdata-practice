@@ -57,5 +57,6 @@
   "practice/sql/medium/medium-groupby-097/solution.sql": "d1a01294cad6d6e7e51279b7477c1e4bb247c653c717473a995e68b29af35c61",
   "practice/sql/medium/medium-join-076/solution.sql": "2e18df97f82e9fa6d759a911001b360def029cb614fa59478d10cbe1ad32bf4b",
   "practice/sql/medium/medium-join-014/solution.sql": "5fee35e375ddd9c1627378a8ad9ccda67e72cf9a49a79d55b7bda5630c8f44c8",
-  "practice/sql/medium/medium-join-141/solution.sql": "5d187db8b4ccf18cd95c075c02cd7260a1738bd544bcef1c63ece1dc91da8ffc"
+  "practice/sql/medium/medium-join-141/solution.sql": "5d187db8b4ccf18cd95c075c02cd7260a1738bd544bcef1c63ece1dc91da8ffc",
+  "practice/sql/easy/easy-where-025/solution.sql": "e589c21ead7d3b3c87d317d7b08f4b97c096e3cf28f39fd079da1502f5bb04f8"
 }
