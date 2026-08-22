@@ -58,5 +58,16 @@
   "practice/sql/medium/medium-join-076/solution.sql": "2e18df97f82e9fa6d759a911001b360def029cb614fa59478d10cbe1ad32bf4b",
   "practice/sql/medium/medium-join-014/solution.sql": "5fee35e375ddd9c1627378a8ad9ccda67e72cf9a49a79d55b7bda5630c8f44c8",
   "practice/sql/medium/medium-join-141/solution.sql": "5d187db8b4ccf18cd95c075c02cd7260a1738bd544bcef1c63ece1dc91da8ffc",
-  "practice/sql/easy/easy-where-025/solution.sql": "e589c21ead7d3b3c87d317d7b08f4b97c096e3cf28f39fd079da1502f5bb04f8"
+  "practice/sql/easy/easy-where-025/solution.sql": "e589c21ead7d3b3c87d317d7b08f4b97c096e3cf28f39fd079da1502f5bb04f8",
+  "practice/sql/hard/hard-frame-001/solution.sql": "1d9aec95a691392d0dd27c7cb1311b24bb8d8c867dc2a582d8cbffffd7ec1e9a",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "a9de493a5bc4a6228d58bebc80826704a31da4f2674fba8dbcdc25bc42892aea",
+  "practice/sql/easy/easy-join-003/solution.sql": "b390837fbabba3ec293bacdb7895ddce4ce4d9a6b77f892f503a831bc4d6619b",
+  "practice/sql/hard/hard-hierarchical-001/solution.sql": "3af48249235fde3a28368e32057d19e56978bd6c3403635cfecad39e7772ef8a",
+  "practice/sql/medium/medium-agg-137/solution.sql": "98c50351b2221e60a23ad8bb77a5ce6b2f232195be5bae6896ac8a7699045089",
+  "practice/sql/medium/medium-join-155/solution.sql": "5ab9d25bb47108b168dc39452bc03e23f6e77e21be1b0965da02e0519349b48e",
+  "practice/sql/medium/medium-rank-001/solution.sql": "301bd535af3a61b572eb7d81c09ed06f0d6b0e66efeeb603747c708b171483dd",
+  "practice/sql/medium/medium-rank-002/solution.sql": "a00b232c040d88767d95f43f5575fb4cc6feacb09fad6a3933b6e3cea980e108",
+  "practice/sql/medium/medium-rank-003/solution.sql": "37f87a516947c116c1972e916c4cb4cfe7fed3bd5f26dd8ea45be655ce753b2f",
+  "practice/sql/medium/medium-classify-001/solution.sql": "11f625fb695edf0a52e5c95ca701c52a98fad3c394ef26eba191c95e7a7bf49e",
+  "practice/sql/medium/medium-repeat-002/solution.sql": "b77d2b568299a79ce51d4d5cec0a8f167e203eadcbd44867b7cd0bf2cb8b1a50"
 }
