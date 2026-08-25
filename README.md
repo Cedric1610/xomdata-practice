@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**71** problems solved on [Xom Data](https://xomdata.com/practice).
+**85** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 2 | 0 | 0 | 0 | 2 |
-| SQL | 32 | 33 | 4 | 0 | 69 |
+| SQL | 33 | 43 | 7 | 0 | 83 |
 
 **Recently solved**
 
-- [medium-repeat-002](https://xomdata.com/practice/medium-repeat-002) · Medium · 2026-08-22
-- [medium-classify-001](https://xomdata.com/practice/medium-classify-001) · Medium · 2026-08-22
-- [medium-rank-003](https://xomdata.com/practice/medium-rank-003) · Medium · 2026-08-21
-- [medium-rank-002](https://xomdata.com/practice/medium-rank-002) · Medium · 2026-08-21
-- [medium-rank-001](https://xomdata.com/practice/medium-rank-001) · Medium · 2026-08-21
-- [medium-join-155](https://xomdata.com/practice/medium-join-155) · Medium · 2026-08-20
-- [medium-agg-137](https://xomdata.com/practice/medium-agg-137) · Medium · 2026-08-20
-- [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-08-19
-- [easy-join-003](https://xomdata.com/practice/easy-join-003) · Easy · 2026-08-18
-- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-17
+- [easy-having-002](https://xomdata.com/practice/easy-having-002) · Easy · 2026-08-25
+- [hard-pivot-001](https://xomdata.com/practice/hard-pivot-001) · Hard · 2026-08-25
+- [medium-lead-001](https://xomdata.com/practice/medium-lead-001) · Medium · 2026-08-25
+- [medium-lag-004](https://xomdata.com/practice/medium-lag-004) · Medium · 2026-08-25
+- [medium-lag-003](https://xomdata.com/practice/medium-lag-003) · Medium · 2026-08-25
+- [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-08-25
+- [medium-classify-002](https://xomdata.com/practice/medium-classify-002) · Medium · 2026-08-25
+- [hard-retention-005](https://xomdata.com/practice/hard-retention-005) · Hard · 2026-08-24
+- [medium-frequency-004](https://xomdata.com/practice/medium-frequency-004) · Medium · 2026-08-24
+- [medium-monetary-004](https://xomdata.com/practice/medium-monetary-004) · Medium · 2026-08-24
 
-_Synced 71 solutions · last update 2026-08-22_
+_Synced 85 solutions · last update 2026-08-25_
 
 <!-- xomdata:stats:end -->
 

@@ -69,5 +69,19 @@
   "practice/sql/medium/medium-rank-002/solution.sql": "a00b232c040d88767d95f43f5575fb4cc6feacb09fad6a3933b6e3cea980e108",
   "practice/sql/medium/medium-rank-003/solution.sql": "37f87a516947c116c1972e916c4cb4cfe7fed3bd5f26dd8ea45be655ce753b2f",
   "practice/sql/medium/medium-classify-001/solution.sql": "11f625fb695edf0a52e5c95ca701c52a98fad3c394ef26eba191c95e7a7bf49e",
-  "practice/sql/medium/medium-repeat-002/solution.sql": "b77d2b568299a79ce51d4d5cec0a8f167e203eadcbd44867b7cd0bf2cb8b1a50"
+  "practice/sql/medium/medium-repeat-002/solution.sql": "b77d2b568299a79ce51d4d5cec0a8f167e203eadcbd44867b7cd0bf2cb8b1a50",
+  "practice/sql/medium/medium-frequency-002/solution.sql": "3a2aae0459d46b866d7884012a509decc308218c396f5acd89c60ef543e48f0f",
+  "practice/sql/hard/hard-anti-001/solution.sql": "5597102f5363fc79a3df9472e08235f1eb7f9cbe88e220d9862b027a6a6072ba",
+  "practice/sql/medium/medium-topn-001/solution.sql": "64c4e1065e3d9750aba4411c1de3f299387c70bf4a57fa70ba17fa62df03701d",
+  "practice/sql/medium/medium-topn-002/solution.sql": "9151de12e062986794cd95cbd9fc8a97515a23a519370cef99d7a9b3171dd748",
+  "practice/sql/medium/medium-monetary-004/solution.sql": "eedc98569b665cb739d6ddd5047e6fd1532da40598e9a0fd9a898ea063c11bfc",
+  "practice/sql/medium/medium-frequency-004/solution.sql": "90ffd8ce83d31f7776746571299b24083090e20cec9f5f5c3d28ccddaf87e223",
+  "practice/sql/hard/hard-retention-005/solution.sql": "623c23dfee035185c00cfeb52cb20a59742a60ce5c47d6972a08f564f4a55c11",
+  "practice/sql/medium/medium-classify-002/solution.sql": "d1e5ed9d1160429904f97dda85931b22ac70e6ac4d8bf57dfad3745371bbbb9d",
+  "practice/sql/medium/medium-lag-002/solution.sql": "d31a77069b73555c011e86881f117c5b6a34b9bf180c6d764af91cf1c27ac43e",
+  "practice/sql/medium/medium-lag-003/solution.sql": "57b53bb70fe94b8d71a0ef32285718c7edcf43897e0dd59c7ae0c97a95367069",
+  "practice/sql/medium/medium-lag-004/solution.sql": "d8e8dd119d430baa654df4d7b646f00293f5bcf1c0c803ef4d40e1af2170412e",
+  "practice/sql/medium/medium-lead-001/solution.sql": "6ccfa23c1c946dd484e210cdfd153999376cdba6a79378863c605d0fd141e74d",
+  "practice/sql/hard/hard-pivot-001/solution.sql": "43c2176a6d8eb8e2d8602f827a70e86e9c65861d5f10cc4d9b8efa47dee585f7",
+  "practice/sql/easy/easy-having-002/solution.sql": "79207896fd8dcc1a68abcdd60fc422c21fe5e632e7305408bc5e005ce5020a26"
 }
