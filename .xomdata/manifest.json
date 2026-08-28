@@ -83,5 +83,14 @@
   "practice/sql/medium/medium-lag-004/solution.sql": "d8e8dd119d430baa654df4d7b646f00293f5bcf1c0c803ef4d40e1af2170412e",
   "practice/sql/medium/medium-lead-001/solution.sql": "6ccfa23c1c946dd484e210cdfd153999376cdba6a79378863c605d0fd141e74d",
   "practice/sql/hard/hard-pivot-001/solution.sql": "43c2176a6d8eb8e2d8602f827a70e86e9c65861d5f10cc4d9b8efa47dee585f7",
-  "practice/sql/easy/easy-having-002/solution.sql": "79207896fd8dcc1a68abcdd60fc422c21fe5e632e7305408bc5e005ce5020a26"
+  "practice/sql/easy/easy-having-002/solution.sql": "79207896fd8dcc1a68abcdd60fc422c21fe5e632e7305408bc5e005ce5020a26",
+  "practice/sql/medium/medium-recency-001/solution.sql": "7bc5c7e22f56a4340a846553dbd753092b758e398223f477578c2990394d477c",
+  "practice/sql/medium/medium-monetary-001/solution.sql": "0e5f5bbd5072f9cabd3770640952aad50072ddc195f7fb153df0fb3608ec18b1",
+  "practice/sql/medium/medium-cohort-003/solution.sql": "71b5cda08232cb67b11d0c800bf35be1016c4f12f1ff5984f87ed6fb2bf44738",
+  "practice/sql/medium/medium-churn-001/solution.sql": "c31f2284996a124a274a9b4c83b921315a30dcb2c8b0e73fe3045d3ec06ece7c",
+  "practice/sql/hard/hard-multicte-001/solution.sql": "cc4989d0e2da23d80881b58609c86c28b46fbbf5fc62289692661e721faac8ac",
+  "practice/sql/easy/easy-in-001/solution.sql": "d3480ad47f584cfb7366f5caf6e39a4e46da63a7c40244e7fc980a6cd1cbc50a",
+  "practice/sql/medium/medium-winjoin-003/solution.sql": "39abaaa025137de3dc290ffa9c7ce32df26cf0e2c0853a587dbf684ab24747a4",
+  "practice/sql/medium/medium-winjoin-004/solution.sql": "f4dd589a777802ea3ae28393f047efcd4fbb808f83cb9de2c7af331c88f7b1c8",
+  "practice/sql/medium/medium-winjoin-005/solution.sql": "fb4b35a5af08a76ed45072abfe6d32f80421f79c63d0c46f5e2c39ea2958046b"
 }
