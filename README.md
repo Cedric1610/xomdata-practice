@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**94** problems solved on [Xom Data](https://xomdata.com/practice).
+**104** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 2 | 0 | 0 | 0 | 2 |
-| SQL | 34 | 50 | 8 | 0 | 92 |
+| SQL | 34 | 59 | 9 | 0 | 102 |
 
 **Recently solved**
 
-- [medium-winjoin-005](https://xomdata.com/practice/medium-winjoin-005) · Medium · 2026-08-28
-- [medium-winjoin-004](https://xomdata.com/practice/medium-winjoin-004) · Medium · 2026-08-28
-- [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-08-28
-- [easy-in-001](https://xomdata.com/practice/easy-in-001) · Easy · 2026-08-27
-- [hard-multicte-001](https://xomdata.com/practice/hard-multicte-001) · Hard · 2026-08-26
-- [medium-churn-001](https://xomdata.com/practice/medium-churn-001) · Medium · 2026-08-26
-- [medium-cohort-003](https://xomdata.com/practice/medium-cohort-003) · Medium · 2026-08-26
-- [medium-monetary-001](https://xomdata.com/practice/medium-monetary-001) · Medium · 2026-08-26
-- [medium-recency-001](https://xomdata.com/practice/medium-recency-001) · Medium · 2026-08-26
-- [easy-having-002](https://xomdata.com/practice/easy-having-002) · Easy · 2026-08-25
+- [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-08-31
+- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Medium · 2026-08-31
+- [medium-runtotal-003](https://xomdata.com/practice/medium-runtotal-003) · Medium · 2026-08-31
+- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-08-31
+- [medium-churn-002](https://xomdata.com/practice/medium-churn-002) · Medium · 2026-08-31
+- [medium-firstlast-002](https://xomdata.com/practice/medium-firstlast-002) · Medium · 2026-08-31
+- [medium-monetary-003](https://xomdata.com/practice/medium-monetary-003) · Medium · 2026-08-31
+- [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-08-30
+- [medium-having-162](https://xomdata.com/practice/medium-having-162) · Medium · 2026-08-29
+- [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-08-29
 
-_Synced 94 solutions · last update 2026-08-28_
+_Synced 104 solutions · last update 2026-08-31_
 
 <!-- xomdata:stats:end -->
 

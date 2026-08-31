@@ -92,5 +92,15 @@
   "practice/sql/easy/easy-in-001/solution.sql": "d3480ad47f584cfb7366f5caf6e39a4e46da63a7c40244e7fc980a6cd1cbc50a",
   "practice/sql/medium/medium-winjoin-003/solution.sql": "39abaaa025137de3dc290ffa9c7ce32df26cf0e2c0853a587dbf684ab24747a4",
   "practice/sql/medium/medium-winjoin-004/solution.sql": "f4dd589a777802ea3ae28393f047efcd4fbb808f83cb9de2c7af331c88f7b1c8",
-  "practice/sql/medium/medium-winjoin-005/solution.sql": "fb4b35a5af08a76ed45072abfe6d32f80421f79c63d0c46f5e2c39ea2958046b"
+  "practice/sql/medium/medium-winjoin-005/solution.sql": "fb4b35a5af08a76ed45072abfe6d32f80421f79c63d0c46f5e2c39ea2958046b",
+  "practice/sql/medium/medium-having-019/solution.sql": "c0783e5c9c8c0d1cae70c96a93018e0355c416f728ae8181f00a3b93fbc02746",
+  "practice/sql/medium/medium-having-162/solution.sql": "fe988985def7623b87e63ba40224f1a01ba9fbf3676ecd40741c17b0e25cb183",
+  "practice/sql/medium/medium-union-175/solution.sql": "87958677c5e0aef14918b333b18c5f3b8379a4fba68148a5d94cb2e381ee4a1d",
+  "practice/sql/medium/medium-monetary-003/solution.sql": "34e51be2fe1ab2753b116260282dc1c5aed7794f3a8e54c681da124ac7c5b8ef",
+  "practice/sql/medium/medium-firstlast-002/solution.sql": "d0b6eba1c23ecd3582253b39710eb43318244fc7be7a4518d7a3d707041bba53",
+  "practice/sql/medium/medium-churn-002/solution.sql": "11394a9a5deb74d87dfdabccb33c0f743ba827e73bb7efb2bfb15933900dfcac",
+  "practice/sql/hard/hard-rfm-003/solution.sql": "38dfe1c1d55684b739a5d405b62d8ef3298b3e4c860aed17039f9032adf3aa88",
+  "practice/sql/medium/medium-runtotal-003/solution.sql": "c2c4dc1095ab5b29620aaf26b279e9235cec96d0449d6d5e1b138b8e39e23fb1",
+  "practice/sql/medium/medium-firstlast-001/solution.sql": "88713c4b45efd1b372b37d3c049b477631af39be44217a27046670c09b8f9c45",
+  "practice/sql/medium/medium-recency-002/solution.sql": "38837203352bc1dbad1c37376e0c6cccec04ad0733ba14b026f30b18c671d541"
 }
