@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**104** problems solved on [Xom Data](https://xomdata.com/practice).
+**140** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 2 | 0 | 0 | 0 | 2 |
-| SQL | 34 | 59 | 9 | 0 | 102 |
+| SQL | 38 | 88 | 12 | 0 | 138 |
 
 **Recently solved**
 
-- [medium-recency-002](https://xomdata.com/practice/medium-recency-002) · Medium · 2026-08-31
-- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Medium · 2026-08-31
-- [medium-runtotal-003](https://xomdata.com/practice/medium-runtotal-003) · Medium · 2026-08-31
-- [hard-rfm-003](https://xomdata.com/practice/hard-rfm-003) · Hard · 2026-08-31
-- [medium-churn-002](https://xomdata.com/practice/medium-churn-002) · Medium · 2026-08-31
-- [medium-firstlast-002](https://xomdata.com/practice/medium-firstlast-002) · Medium · 2026-08-31
-- [medium-monetary-003](https://xomdata.com/practice/medium-monetary-003) · Medium · 2026-08-31
-- [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-08-30
-- [medium-having-162](https://xomdata.com/practice/medium-having-162) · Medium · 2026-08-29
-- [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-08-29
+- [medium-firstval-001](https://xomdata.com/practice/medium-firstval-001) · Medium · 2026-09-07
+- [medium-subquery-198](https://xomdata.com/practice/medium-subquery-198) · Medium · 2026-09-07
+- [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-09-07
+- [medium-winjoin-002](https://xomdata.com/practice/medium-winjoin-002) · Medium · 2026-09-07
+- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-09-07
+- [medium-winagg-006](https://xomdata.com/practice/medium-winagg-006) · Medium · 2026-09-07
+- [medium-recency-005](https://xomdata.com/practice/medium-recency-005) · Medium · 2026-09-06
+- [hard-percentile-001](https://xomdata.com/practice/hard-percentile-001) · Hard · 2026-09-06
+- [hard-conditional-001](https://xomdata.com/practice/hard-conditional-001) · Hard · 2026-09-06
+- [medium-churn-005](https://xomdata.com/practice/medium-churn-005) · Medium · 2026-09-06
 
-_Synced 104 solutions · last update 2026-08-31_
+_Synced 140 solutions · last update 2026-09-07_
 
 <!-- xomdata:stats:end -->
 
